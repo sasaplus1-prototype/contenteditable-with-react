@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": [
+      "dom",
+      "ESNext"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "newLine": "lf",
+    "outDir": ".",
+    "rootDir": ".",
+    "strict": true,
+    "target": "ESNext"
+  },
+  "files": [
+    "./index.tsx"
+  ]
+}
